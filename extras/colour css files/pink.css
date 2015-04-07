@@ -1,0 +1,71 @@
+.colour {color:#EC005F; } 
+
+a {color: #EC005F;}
+a:hover {color:#333;}
+
+::selection { background: #EC005F; color: #fff; }
+::-moz-selection { background:#EC005F; color: #fff; }
+
+blockquote { border-left:4px solid #EC005F!important;  }
+
+.btn { background-color: #EC005F!important; }
+.btn-inverse:hover { background-color: #EC005F!important;}
+
+#menu li a:hover,  #menu  a:focus { color:#EC005F!important; background-color:transparent; }
+
+#contact { color:#f0f0f0!important; background:#EC005F!important;}
+#contact .lead, #contact h1 {color:#f0f0f0!important; }
+#contact a { color:#f0f0f0; }
+#contact a:hover { color:#2E3138; }
+.inverse { color:#f0f0f0; }
+.social-icons li a:hover { color:#2E3138!important;  }
+.footer a { color: #EC005F!important; }
+.footer a:hover { color: #999!important; }
+
+
+/**** CIRCLE LINK ****/
+.circle { background: #EC005F!important; }
+.circle:hover {  background: #2E3138!important; }
+
+/**** HEART ****/
+.heart:before, .heart:after { background:#EC005F!important; }
+
+/*  ---------------------------------------------------------------
+  	SERVICE ICONS
+    --------------------------------------------------------------- */
+.service { background: #EC005F!important; }
+
+/*  ---------------------------------------------------------------
+  	PROGRESS BARS/SKILL BARS
+    --------------------------------------------------------------- */
+.bars-wrapper .progress-bar  {background:#EC005F!important; }
+
+/*  ---------------------------------------------------------------
+  	TEAM ICONS
+    --------------------------------------------------------------- */
+.hi-icon2 { color: #EC005F!important; }
+.hi-icon-effect-a .hi-icon2 { box-shadow: 0 0 0 3px #EC005F!important; }
+.no-touch .hi-icon-effect-a1 .hi-icon2:hover { color:#EC005F!important;}
+.hi-icon-effect-a .hi-icon2:after { background: #EC005F!important; color:#EC005F!important; }
+
+/*  ---------------------------------------------------------------
+   	HOVER CAPTIONS ( TEAM - VIEW PROFILE + WORK - VIEW BUTTONS 
+    --------------------------------------------------------------- */
+.cbp-l-caption-buttonLeft:hover, .cbp-l-caption-buttonRight:hover {
+    color: #fff!important;
+	background-color: #EC005F!important;
+}
+
+/*  ---------------------------------------------------------------
+  PORTFOLIO FILTERS
+    --------------------------------------------------------------- */
+.cbp-l-filters-button .cbp-filter-item-active { background-color:#EC005F!important;  color: #fff !important; }
+.cbp-l-filters-button .cbp-filter-counter { background-color: #EC005F!important; color: #fff!important; }
+.cbp-l-filters-button .cbp-filter-counter:before { border-top: 4px solid #EC005F!important;}
+
+.nav-tabs .active a, .nav-tabs a:hover, .nav-tabs .active  a:focus { background-color:#EC005F!important;}
+
+
+
+
+
